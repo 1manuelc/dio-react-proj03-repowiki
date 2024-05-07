@@ -1,8 +1,9 @@
-# React + Vite
+# GitHub RepoWiki
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desafio que conclui o segundo módulo da Formação React.
 
-Currently, two official plugins are available:
+Trata-se de uma aplicação que faz requisições para a API do GitHub procurando por um repositório dado pela caixa de pesquisa. Além disso, exibe uma lista de repositórios adicionados, com link para cada um e podendo excluir individualmente, modificando o Estado da lista de repositórios.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Contém dependências adicionais como `Axios, TailwindCSS e Phosphor Icons`, foi montado com `Vite`.
+
+Exercita fundamentos básicos do React como componentização, props e hook useState.
